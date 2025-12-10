@@ -7,6 +7,7 @@ Script usado para capturar os slides do Google qu são embutidos em páginas Web
 2 - Use a ferramenta de inspeça de codigo do navegador para encontrar os slides normalmente em uma tag de iframe como a de exemplo abaixo:
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRmbcweNnoSWPv6ZUviWGBCsbAsJI1k0vWvbPDsamyUphdYzi1AzS3RaRZrucxFQZJdQkIT5SoQld1e/pubembed?start=false&amp;loop=false&amp;delayms=3000" width="1280" height="749" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+
 3 - Capture somente a url do https até "pub" ou pubembd como no exemplo abaixo:
 https://docs.google.com/presentation/d/e/2PACX-1vRmbcweNnoSWPv6ZUviWGBCsbAsJI1k0vWvbPDsamyUphdYzi1AzS3RaRZrucxFQZJdQkIT5SoQld1e/pub
 
