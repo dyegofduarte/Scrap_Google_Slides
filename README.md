@@ -24,6 +24,7 @@ python Slides_Google_Scrap.py <QUANTIDADE_DE_SLIDES> <URL>
 
 OBS: 
 - Cada slides vai estar dentro da pasta "slides_capturados" no formato png
+- A pasta é criada em cada execução, não é necessário criar
 - Se for realizada outra execução sem limpara a pasta, o script vai sobrescrever os arquivos na pasta de slides, por via das dúvidas limpe a pasta para evitar que slides antigos não sejam usados na nova apresentação
 
 Para limpar aa pasta dos slides capturados use a opção "l" ou "L"
